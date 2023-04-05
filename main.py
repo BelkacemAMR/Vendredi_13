@@ -9,7 +9,6 @@ def is_friday_13th(date):
 def max_days(date):
     return monthrange(date.year, date.month)[1]
 
-
 def friday_the_13th():
     today = date.today()
     result = today
