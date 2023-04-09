@@ -4,7 +4,7 @@ Ce programme calcule la prochaine date de vendredi 13 à partir de la date actue
 
 Il utilise la bibliothèque "datetime" pour travailler avec des objets de date et de temps, 
 
-et la bibliothèque calendar pour déterminer le nombre de jours dans un mois donné.
+et la bibliothèque "calendar" pour déterminer le nombre de jours dans un mois donné.
 
 La fonction is_friday_13th prend une date en entrée et renvoie True si cette date est un vendredi 13 et False sinon.
 
