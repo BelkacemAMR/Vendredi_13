@@ -10,7 +10,7 @@ La fonction "is_friday_13th" prend une date en entrée et renvoie True si cette 
 
 La fonction "max_days" prend une date en entrée et renvoie le nombre maximum de jours dans le mois correspondant à cette date.
 
-La fonction "friday_the_13th" ne prend pas d'entrée et utilise la fonction is_friday_13th et max_days pour trouver
+La fonction "friday_the_13th" ne prend pas d'entrée et utilise la fonction "is_friday_13th" et "max_days" pour trouver
 
 la prochaine date de vendredi 13 à partir de la date actuelle. 
 
