@@ -6,7 +6,7 @@ Il utilise la bibliothèque "datetime" pour travailler avec des objets de date e
 
 et la bibliothèque "calendar" pour déterminer le nombre de jours dans un mois donné.
 
-La fonction is_friday_13th prend une date en entrée et renvoie True si cette date est un vendredi 13 et False sinon.
+La fonction "is_friday_13th" prend une date en entrée et renvoie True si cette date est un vendredi 13 et False sinon.
 
 La fonction max_days prend une date en entrée et renvoie le nombre maximum de jours dans le mois correspondant à cette date.
 
