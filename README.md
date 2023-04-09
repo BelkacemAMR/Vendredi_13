@@ -2,7 +2,7 @@
 
 Ce programme calcule la prochaine date de vendredi 13 à partir de la date actuelle ou de la date donnée en entrée.
 
-Il utilise la bibliothèque datetime pour travailler avec des objets de date et de temps, 
+Il utilise la bibliothèque "datetime" pour travailler avec des objets de date et de temps, 
 
 et la bibliothèque calendar pour déterminer le nombre de jours dans un mois donné.
 
